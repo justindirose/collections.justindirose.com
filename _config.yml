@@ -26,9 +26,11 @@ repository: "justindirose/collections.justindirose.com"
 
 # Build settings
 markdown: kramdown
-remote_theme: justindirose/jekyll-theme-collected
 gems:
   - jekyll-feed
+  
+remote_theme: justindirose/jekyll-theme-collected
+
 
 google_analytics: UA-91392947-3
 
