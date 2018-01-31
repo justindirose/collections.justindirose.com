@@ -1,0 +1,12 @@
+---
+layout: default
+---
+{% if site.categories.articles %}
+<div id="masonry">
+{% for post in site.categories.articles %}
+    {% include feed_item.html post=post %}
+{% endfor %}
+</div>
+{% else %}
+<div>There are no posts in this category.</div>
+{% endif %}
