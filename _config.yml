@@ -22,10 +22,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://collections.justindirose.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: justindirose
 github_username:  justindirose
+repository: "justindirose/collections.justindirose.com"
 
 # Build settings
 markdown: kramdown
-remote_theme: jekyll-theme-collected
+remote_theme: joebuhlig/jekyll-theme-collected
 gems:
   - jekyll-feed
 
