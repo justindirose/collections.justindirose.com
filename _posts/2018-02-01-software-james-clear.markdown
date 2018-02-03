@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-01-05 10:46:00 -0600
+date: 2018-02-01 10:46:00 -0600
 categories: quotes
 external: https://twitter.com/james_clear/status/959443261776592896
 tags: automation productivity
