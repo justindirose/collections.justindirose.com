@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Principles: Elon Musk on the Power of Thinking for Yourself
+title: First Principles - Elon Musk on the Power of Thinking for Yourself
 date: 2017-12-21 10:46:00 -0600
 categories: articles
 external: https://jamesclear.com/first-principles

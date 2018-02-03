@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Principles: Life and Work
+title: Principles - Life and Work
 date: 2018-01-31 10:46:00 -0600
 categories: books
 external: https://www.amazon.com/Principles-Life-Work-Ray-Dalio-ebook/dp/B071CTK28D/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=

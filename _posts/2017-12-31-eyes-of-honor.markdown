@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eyes of Honor: Training for Purity and Righteousness
+title: Eyes of Honor - Training for Purity and Righteousness
 date: 2017-12-31 10:00 -0600
 categories: books
 external: https://www.amazon.com/Eyes-Honor-Training-Purity-Righteousness-ebook/dp/B00817LQKM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
